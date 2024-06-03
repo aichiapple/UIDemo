@@ -14,3 +14,4 @@ class TestLogin:
         access_web[1].login(caseData["user"], caseData["passwd"])
         #断言，首页能否找到推出元素
         assert IndexPage(access_web[0]).isExist_logout_ele()
+
