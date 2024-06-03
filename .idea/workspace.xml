@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c11c4d7-9e34-4365-9a43-f9706823a012" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QsVn6bhVty4PuGrHBfc10bi5Nw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/PageObjects" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\pycharm\PyCharm Community Edition 2020.2.1\jbr\bin\pyqt5\PageObjects" />
+      <recent name="D:\Develop\pycharm\PyCharm Community Edition 2020.2.1\jbr\bin\pyqt5" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Develop\pycharm\PyCharm Community Edition 2020.2.1\jbr\bin\pyqt5\testdemo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_00_login.TestLogin.test_login_2_sucess">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UIDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/testdemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/testdemo/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dir_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UIDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/Common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/Common/dir_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UIDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_00_login.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="UIDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/TestCases/ModelA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_00_login.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_00_login.TestLogin.test_login_2_sucess" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="UIDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/TestCases/ModelA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_00_login.TestLogin.test_login_2_sucess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="UIDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$APPLICATION_HOME_DIR$/jbr/bin/pyqt5/TestCases/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_00_login.TestLogin.test_login_2_sucess" />
+        <item itemvalue="Python tests.pytest for test_00_login.TestLogin" />
+        <item itemvalue="Python.dir_config" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c11c4d7-9e34-4365-9a43-f9706823a012" name="Default Changelist" comment="" />
+      <created>1686142440109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686142440109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="152" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1716999187726">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="330" y="152" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.866@0.0.1463.866" timestamp="1716999187726" />
+    <state x="510" y="144" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1711639949782">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="510" y="144" key="#com.intellij.ide.macro.MacrosDialog/0.0.1463.866@0.0.1463.866" timestamp="1711639949782" />
+    <state width="924" height="466" key="DebuggerActiveHint" timestamp="1716825061262">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="924" height="466" key="DebuggerActiveHint/0.0.1463.866@0.0.1463.866" timestamp="1716825061262" />
+    <state x="510" y="194" key="FileChooserDialogImpl" timestamp="1717345628815">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="510" y="194" key="FileChooserDialogImpl/0.0.1463.866@0.0.1463.866" timestamp="1717345628815" />
+    <state width="1442" height="76" key="GridCell.Tab.0.bottom" timestamp="1717082887775">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="76" key="GridCell.Tab.0.bottom/0.0.1463.866@0.0.1463.866" timestamp="1717082887775" />
+    <state width="1442" height="76" key="GridCell.Tab.0.center" timestamp="1717082887775">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="76" key="GridCell.Tab.0.center/0.0.1463.866@0.0.1463.866" timestamp="1717082887775" />
+    <state width="1442" height="76" key="GridCell.Tab.0.left" timestamp="1717082887775">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="76" key="GridCell.Tab.0.left/0.0.1463.866@0.0.1463.866" timestamp="1717082887775" />
+    <state width="1442" height="76" key="GridCell.Tab.0.right" timestamp="1717082887775">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="76" key="GridCell.Tab.0.right/0.0.1463.866@0.0.1463.866" timestamp="1717082887775" />
+    <state width="1442" height="337" key="GridCell.Tab.1.bottom" timestamp="1717000221653">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="337" key="GridCell.Tab.1.bottom/0.0.1463.866@0.0.1463.866" timestamp="1717000221653" />
+    <state width="1442" height="337" key="GridCell.Tab.1.center" timestamp="1717000221653">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="337" key="GridCell.Tab.1.center/0.0.1463.866@0.0.1463.866" timestamp="1717000221653" />
+    <state width="1442" height="337" key="GridCell.Tab.1.left" timestamp="1717000221653">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="337" key="GridCell.Tab.1.left/0.0.1463.866@0.0.1463.866" timestamp="1717000221653" />
+    <state width="1442" height="337" key="GridCell.Tab.1.right" timestamp="1717000221653">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state width="1442" height="337" key="GridCell.Tab.1.right/0.0.1463.866@0.0.1463.866" timestamp="1717000221653" />
+    <state x="232" y="84" key="SettingsEditor" timestamp="1717420074268">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="232" y="84" key="SettingsEditor/0.0.1463.866@0.0.1463.866" timestamp="1717420074268" />
+    <state x="287" y="162" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1716999686534">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="287" y="162" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1463.866@0.0.1463.866" timestamp="1716999686534" />
+    <state x="191" y="559" width="1161" height="666" key="dock-window-1" timestamp="1716717208423">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="191" y="559" width="1161" height="666" key="dock-window-1/0.0.1463.866@0.0.1463.866" timestamp="1716717208423" />
+    <state x="125" y="550" width="1161" height="666" key="dock-window-2" timestamp="1716637585411">
+      <screen x="0" y="0" width="1463" height="866" />
+    </state>
+    <state x="125" y="550" width="1161" height="666" key="dock-window-2/0.0.1463.866@0.0.1463.866" timestamp="1716637585411" />
+  </component>
+</project>
